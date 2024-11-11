@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/web-react/static/css/main.3c74f75e.css",
+    "main.js": "/web-react/static/js/main.4362037b.js",
+    "static/media/Zed.png": "/web-react/static/media/Zed.1675168f1bf50c2a14f9.png",
+    "static/media/Cash.png": "/web-react/static/media/Cash.9b0fbd58a2fc7102b5a1.png",
+    "static/media/websiteportfolio.png": "/web-react/static/media/websiteportfolio.19bed849a049b80757d4.png",
+    "static/media/project1.png": "/web-react/static/media/project1.6fd45fe42505cf9a5d82.png",
+    "static/media/inv.png": "/web-react/static/media/inv.1317c2799fc993994594.png",
+    "static/media/donut1.png": "/web-react/static/media/donut1.61be7c28ffc61768f472.png",
+    "index.html": "/web-react/index.html",
+    "main.3c74f75e.css.map": "/web-react/static/css/main.3c74f75e.css.map",
+    "main.4362037b.js.map": "/web-react/static/js/main.4362037b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c74f75e.css",
+    "static/js/main.4362037b.js"
+  ]
+}

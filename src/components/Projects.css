@@ -1,0 +1,9 @@
+.project-card{
+    background: #333;
+}
+
+.project-card-description {
+    font-size: 1rem;
+    color: #fff;
+    margin-bottom: 15px;
+  }
